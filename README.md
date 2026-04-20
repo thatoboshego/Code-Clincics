@@ -567,3 +567,9 @@ python3 -m unittest test_main.py
 | `TestSlotStatus`        | Display status strings per role                           |
 | `TestAvailabilityLogic` | Role-based slot availability logic                        |
 | `TestSchedulerViews`    | Summary display and day view output                       |
+
+---
+
+## 📄 License
+
+This project is open-source under the MIT License.
